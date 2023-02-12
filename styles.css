@@ -147,3 +147,33 @@ h2{
     font-weight: bold;
     padding-right: 30px;
 }
+
+.container2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.call-to-action{
+    display: flex;
+    background-color: #3882F6;
+    padding: 50px 50px;
+    margin: 100px 0px;
+    border-radius: 10px;
+}
+
+.cta-left{
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+}
+
+.cta{
+    color: #F9FAF8;
+}
+
+.footer{
+    background-color: #1F2937;
+    padding: 50px;
+    color: #F9FAF8;
+    text-align: center;
+}
