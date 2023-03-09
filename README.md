@@ -1,4 +1,4 @@
 # landing-page
 The Odin Project Assignment
 
-https://www.theodinproject.com/lessons/foundations-landing-page
+View: https://dallair220.github.io/landing-page/
